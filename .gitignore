@@ -1,0 +1,9 @@
+checkpoints/
+data/raw/
+*.pt
+*.zip
+*.gz
+*.pkl
+__pycache__/
+*.pyc
+*.bak

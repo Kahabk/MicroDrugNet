@@ -1,0 +1,36 @@
+# MicroDrugNet Default Config
+model:
+  n_taxa: 1000
+  n_genes: 512
+  drug_dim: 256
+  use_patient: false
+  dropout: 0.2
+
+training:
+  epochs: 100
+  batch_size: 32
+  lr: 1.0e-4
+  weight_decay: 1.0e-5
+  patience: 15
+  amp: true
+  grad_clip: 1.0
+
+loss:
+  w_bioavailability: 1.0
+  w_response: 0.5
+  w_metabolites: 0.3
+
+data:
+  n_taxa: 1000
+  val_split: 0.15
+  test_split: 0.10
+  num_workers: 4
+
+scheduler:
+  type: cosine
+  T_max: 100
+
+logging:
+  use_wandb: true
+  project: "MicroDrugNet"
+  checkpoint_dir: "checkpoints"

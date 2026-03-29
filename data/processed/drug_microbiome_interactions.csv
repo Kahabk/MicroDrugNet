@@ -1,0 +1,27 @@
+drug,bacterium,interaction_type,effect,confidence,pmid
+metformin,Akkermansia muciniphila,abundance,increase,high,26928511
+metformin,Intestinibacter,abundance,decrease,high,26928511
+metformin,Lactobacillus,abundance,increase,medium,28265064
+metformin,Bifidobacterium,abundance,increase,medium,28265064
+digoxin,Eggerthella lenta,metabolism,reduction,very_high,19920051
+aspirin,Bacteroides fragilis,metabolism,deacetylation,high,28195081
+irinotecan,Clostridium perfringens,metabolism,reactivation,high,11447242
+irinotecan,Lactobacillus,abundance,decrease,medium,22031237
+ciprofloxacin,Lactobacillus,abundance,decrease,very_high,24929508
+ciprofloxacin,Bifidobacterium,abundance,decrease,very_high,24929508
+ciprofloxacin,Clostridium difficile,abundance,increase,high,24929508
+amoxicillin,Lactobacillus,abundance,decrease,very_high,19491906
+amoxicillin,Bifidobacterium,abundance,decrease,very_high,19491906
+omeprazole,Streptococcus,abundance,increase,high,25754969
+omeprazole,Lactobacillus,abundance,decrease,medium,25754969
+levodopa,Enterococcus faecalis,metabolism,decarboxylation,high,31395818
+levodopa,Lactobacillus brevis,metabolism,decarboxylation,high,31395818
+tacrolimus,Faecalibacterium prausnitzii,metabolism,demethylation,high,28930671
+cyclophosphamide,Lactobacillus johnsonii,immunomod.,enhance,high,23426099
+warfarin,Bacteroides,metabolism,reduction,medium,20508091
+sorivudine,Lactobacillus acidophilus,metabolism,toxic_conv,very_high,9010217
+ibuprofen,Akkermansia muciniphila,abundance,decrease,medium,30661463
+statins,Akkermansia muciniphila,abundance,increase,medium,29207054
+statins,Bifidobacterium,abundance,increase,medium,29207054
+metronidazole,Bacteroides,abundance,decrease,very_high,22412307
+metronidazole,Clostridium difficile,abundance,decrease,high,22412307

@@ -1,0 +1,104 @@
+drug,bacterium,interaction_type,effect,confidence,pmid,source,strength
+metformin,Akkermansia muciniphila,abundance,increase,high,26928511,drug_microbiome_interactions,
+metformin,Intestinibacter,abundance,decrease,high,26928511,drug_microbiome_interactions,
+metformin,Lactobacillus,abundance,increase,medium,28265064,drug_microbiome_interactions,
+metformin,Bifidobacterium,abundance,increase,medium,28265064,drug_microbiome_interactions,
+digoxin,Eggerthella lenta,metabolism,reduction,very_high,19920051,drug_microbiome_interactions,
+aspirin,Bacteroides fragilis,metabolism,deacetylation,high,28195081,drug_microbiome_interactions,
+irinotecan,Clostridium perfringens,metabolism,reactivation,high,11447242,drug_microbiome_interactions,
+irinotecan,Lactobacillus,abundance,decrease,medium,22031237,drug_microbiome_interactions,
+ciprofloxacin,Lactobacillus,abundance,decrease,very_high,24929508,drug_microbiome_interactions,
+ciprofloxacin,Bifidobacterium,abundance,decrease,very_high,24929508,drug_microbiome_interactions,
+ciprofloxacin,Clostridium difficile,abundance,increase,high,24929508,drug_microbiome_interactions,
+amoxicillin,Lactobacillus,abundance,decrease,very_high,19491906,drug_microbiome_interactions,
+amoxicillin,Bifidobacterium,abundance,decrease,very_high,19491906,drug_microbiome_interactions,
+omeprazole,Streptococcus,abundance,increase,high,25754969,drug_microbiome_interactions,
+omeprazole,Lactobacillus,abundance,decrease,medium,25754969,drug_microbiome_interactions,
+levodopa,Enterococcus faecalis,metabolism,decarboxylation,high,31395818,drug_microbiome_interactions,
+levodopa,Lactobacillus brevis,metabolism,decarboxylation,high,31395818,drug_microbiome_interactions,
+tacrolimus,Faecalibacterium prausnitzii,metabolism,demethylation,high,28930671,drug_microbiome_interactions,
+cyclophosphamide,Lactobacillus johnsonii,immunomod.,enhance,high,23426099,drug_microbiome_interactions,
+warfarin,Bacteroides,metabolism,reduction,medium,20508091,drug_microbiome_interactions,
+sorivudine,Lactobacillus acidophilus,metabolism,toxic_conv,very_high,9010217,drug_microbiome_interactions,
+ibuprofen,Akkermansia muciniphila,abundance,decrease,medium,30661463,drug_microbiome_interactions,
+statins,Akkermansia muciniphila,abundance,increase,medium,29207054,drug_microbiome_interactions,
+statins,Bifidobacterium,abundance,increase,medium,29207054,drug_microbiome_interactions,
+metronidazole,Bacteroides,abundance,decrease,very_high,22412307,drug_microbiome_interactions,
+metronidazole,Clostridium difficile,abundance,decrease,high,22412307,drug_microbiome_interactions,
+amoxicillin,Lactobacillus acidophilus,abundance,decrease,very_high,19491906,masi_interactions,
+amoxicillin,Bifidobacterium longum,abundance,decrease,very_high,19491906,masi_interactions,
+amoxicillin,Clostridium difficile,abundance,increase,high,24929508,masi_interactions,
+ciprofloxacin,Lactobacillus,abundance,decrease,very_high,24929508,masi_interactions,
+ciprofloxacin,Bifidobacterium,abundance,decrease,very_high,24929508,masi_interactions,
+ciprofloxacin,Bacteroides fragilis,abundance,decrease,high,24929508,masi_interactions,
+metronidazole,Bacteroides,abundance,decrease,very_high,22412307,masi_interactions,
+metronidazole,Fusobacterium,abundance,decrease,high,22412307,masi_interactions,
+vancomycin,Enterococcus,abundance,increase,high,26432848,masi_interactions,
+vancomycin,Lactobacillus,abundance,decrease,high,26432848,masi_interactions,
+clindamycin,Bacteroides,abundance,decrease,high,23437007,masi_interactions,
+clindamycin,Clostridium difficile,abundance,increase,very_high,23437007,masi_interactions,
+tetracycline,Lactobacillus,abundance,decrease,high,20118745,masi_interactions,
+doxycycline,Treponema denticola,abundance,decrease,high,12234839,masi_interactions,
+rifaximin,Bifidobacterium,abundance,increase,medium,24365453,masi_interactions,
+rifaximin,Faecalibacterium prausnitzii,abundance,increase,medium,24365453,masi_interactions,
+metformin,Akkermansia muciniphila,abundance,increase,very_high,26928511,masi_interactions,
+metformin,Intestinibacter,abundance,decrease,high,26928511,masi_interactions,
+metformin,Bifidobacterium,abundance,increase,medium,28265064,masi_interactions,
+metformin,Lactobacillus,abundance,increase,medium,28265064,masi_interactions,
+metformin,Escherichia coli,metabolism,production_SCFAs,medium,31534173,masi_interactions,
+acarbose,Bifidobacterium,abundance,increase,high,28899443,masi_interactions,
+acarbose,Lactobacillus,abundance,increase,high,28899443,masi_interactions,
+digoxin,Eggerthella lenta,metabolism,reduction,very_high,19920051,masi_interactions,
+irinotecan,Clostridium perfringens,metabolism,deglucuronidation,high,11447242,masi_interactions,
+irinotecan,Bacteroides,metabolism,deglucuronidation,high,22031237,masi_interactions,
+levodopa,Enterococcus faecalis,metabolism,decarboxylation,high,31395818,masi_interactions,
+levodopa,Lactobacillus brevis,metabolism,decarboxylation,high,31395818,masi_interactions,
+sorivudine,Lactobacillus acidophilus,metabolism,conversion,very_high,9010217,masi_interactions,
+tacrolimus,Faecalibacterium prausnitzii,metabolism,demethylation,high,28930671,masi_interactions,
+prontosil,Intestinal bacteria,metabolism,reduction_to_sulfanilamide,very_high,historical,masi_interactions,
+sulfasalazine,Intestinal bacteria,metabolism,cleavage,very_high,7588571,masi_interactions,
+omeprazole,Streptococcus,abundance,increase,high,25754969,masi_interactions,
+omeprazole,Lactobacillus,abundance,decrease,medium,25754969,masi_interactions,
+omeprazole,Actinomyces,abundance,increase,medium,25754969,masi_interactions,
+lansoprazole,Clostridium difficile,abundance,increase,medium,28115186,masi_interactions,
+aspirin,Bacteroides fragilis,metabolism,deacetylation,high,28195081,masi_interactions,
+aspirin,Faecalibacterium prausnitzii,abundance,increase,medium,29892081,masi_interactions,
+ibuprofen,Akkermansia muciniphila,abundance,decrease,medium,30661463,masi_interactions,
+naproxen,Intestinal bacteria,metabolism,deconjugation,medium,9010217,masi_interactions,
+atorvastatin,Akkermansia muciniphila,abundance,increase,medium,29207054,masi_interactions,
+rosuvastatin,Bifidobacterium,abundance,increase,medium,29207054,masi_interactions,
+simvastatin,Lactobacillus,abundance,increase,medium,29207054,masi_interactions,
+fluoxetine,Lactobacillus rhamnosus,abundance,increase,medium,31538142,masi_interactions,
+sertraline,Bacteroides,abundance,decrease,medium,29961573,masi_interactions,
+clozapine,Akkermansia muciniphila,abundance,decrease,medium,30982850,masi_interactions,
+olanzapine,Lactobacillus,abundance,decrease,medium,28934086,masi_interactions,
+cyclophosphamide,Lactobacillus johnsonii,immunomod.,enhance_efficacy,high,23426099,masi_interactions,
+cyclophosphamide,Enterococcus hirae,immunomod.,enhance_efficacy,high,23426099,masi_interactions,
+oxaliplatin,Lactobacillus,immunomod.,enhance_efficacy,medium,25731161,masi_interactions,
+gemcitabine,Gammaproteobacteria,metabolism,inactivation,high,28912249,masi_interactions,
+warfarin,Bacteroides,metabolism,reduction,medium,20508091,masi_interactions,
+warfarin,Enterococcus faecalis,metabolism,vitamin_K_production,medium,25575582,masi_interactions,
+tacrolimus,Clostridium hylemonae,metabolism,reduction,medium,28930671,masi_interactions,
+mycophenolate,Gut bacteria,metabolism,deglucuronidation,high,21030551,masi_interactions,
+digoxin,Eggerthella lenta,metabolism,inactivation,very_high,19920051,masi_interactions,
+losartan,Intestinal bacteria,metabolism,conversion,medium,29892081,masi_interactions,
+fluoxetine,Bacteroides thetaiotaomicron,,growth_inhibition,,,maier2018_drug_bacteria,strong
+sertraline,Bacteroides thetaiotaomicron,,growth_inhibition,,,maier2018_drug_bacteria,strong
+thioridazine,Bacteroides fragilis,,growth_inhibition,,,maier2018_drug_bacteria,strong
+loperamide,Akkermansia muciniphila,,growth_inhibition,,,maier2018_drug_bacteria,medium
+perhexiline,Bifidobacterium adolescentis,,growth_inhibition,,,maier2018_drug_bacteria,strong
+terfenadine,Lactobacillus acidophilus,,growth_inhibition,,,maier2018_drug_bacteria,medium
+cloperastine,Blautia producta,,growth_inhibition,,,maier2018_drug_bacteria,medium
+astemizole,Roseburia intestinalis,,growth_inhibition,,,maier2018_drug_bacteria,medium
+diphenhydramine,Faecalibacterium prausnitzii,,growth_inhibition,,,maier2018_drug_bacteria,low
+ambroxol,Bifidobacterium longum,,growth_inhibition,,,maier2018_drug_bacteria,low
+imipramine,Bacteroides fragilis,,growth_inhibition,,,maier2018_drug_bacteria,strong
+chlorpromazine,Akkermansia muciniphila,,growth_inhibition,,,maier2018_drug_bacteria,strong
+promethazine,Lactobacillus rhamnosus,,growth_inhibition,,,maier2018_drug_bacteria,medium
+metformin,Intestinibacter,,growth_inhibition,,,maier2018_drug_bacteria,strong
+metformin,Akkermansia muciniphila,,growth_promotion,,,maier2018_drug_bacteria,strong
+omeprazole,Streptococcus salivarius,,growth_promotion,,,maier2018_drug_bacteria,medium
+lansoprazole,Streptococcus salivarius,,growth_promotion,,,maier2018_drug_bacteria,medium
+aspirin,Faecalibacterium prausnitzii,,growth_promotion,,,maier2018_drug_bacteria,low
+ibuprofen,Akkermansia muciniphila,,growth_inhibition,,,maier2018_drug_bacteria,low
+simvastatin,Akkermansia muciniphila,,growth_promotion,,,maier2018_drug_bacteria,medium
