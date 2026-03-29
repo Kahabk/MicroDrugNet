@@ -109,8 +109,4 @@ MicroDrugNet/
 
 ## License
 
-MIT — free for academic and commercial use.
-# test change
-# final change
-# final change
-# pair badge
+MIT — free for academic and commercial 
