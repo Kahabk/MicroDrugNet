@@ -1,7 +1,3 @@
-"""
-MicroDrugNet — Full Model Architecture
-Pharmacomicrobiomics: Predicting drug metabolism via gut microbiome.
-"""
 
 import torch
 import torch.nn as nn
