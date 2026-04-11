@@ -6,7 +6,18 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)]()
 [![HuggingFace Demo](https://img.shields.io/badge/🤗-Demo-orange)]()
 [![ArXiv](https://img.shields.io/badge/arXiv-coming_soon-red)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg?logo=pytorch&logoColor=white)]()
+[![CUDA](https://img.shields.io/badge/CUDA-Enabled-green.svg?logo=nvidia&logoColor=white)]()
+[![HuggingFace](https://img.shields.io/badge/🤗-Spaces-orange)]()
+[![Weights & Biases](https://img.shields.io/badge/W%26B-Tracking-blue?logo=weightsandbiases)]()
+[![Gradio](https://img.shields.io/badge/Gradio-Demo-yellow?logo=gradio)]()
+[![ArXiv](https://img.shields.io/badge/arXiv-coming_soon-red)]()
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)]()
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-success)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red)]()
 ## Why MicroDrugNet?
 
 The same drug works for Person A, fails for Person B — because their **gut microbiome metabolises it differently**. This is why 30–40% of clinical trials fail for unexplained reasons.
